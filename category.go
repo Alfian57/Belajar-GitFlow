@@ -8,3 +8,7 @@ type Category struct {
 func (c *Category) Create() {
 	// Create category
 }
+
+func (c *Category) Update() {
+	// Update category
+}
