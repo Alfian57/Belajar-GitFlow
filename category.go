@@ -16,3 +16,7 @@ func (c *Category) Update() {
 func (c *Category) Delete() {
 	// Delete category
 }
+
+func (c *Category) GetAll() {
+	// Get category
+}
