@@ -12,3 +12,7 @@ func (c *Category) Create() {
 func (c *Category) Update() {
 	// Update category
 }
+
+func (c *Category) Delete() {
+	// Delete category
+}
