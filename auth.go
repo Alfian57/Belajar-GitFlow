@@ -9,3 +9,7 @@ func login() {
 func logout() {
 	fmt.Println("Logout")
 }
+
+func register() {
+	fmt.Println("Register")
+}
