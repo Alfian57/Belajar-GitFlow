@@ -13,3 +13,7 @@ func logout() {
 func register() {
 	fmt.Println("Register")
 }
+
+func forgotPassword() {
+	fmt.Println("Forgot Password")
+}
