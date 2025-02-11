@@ -8,3 +8,7 @@ type Product struct {
 func (p *Product) Create() {
 	// Create product
 }
+
+func (p *Product) Update() {
+	// Update product
+}
